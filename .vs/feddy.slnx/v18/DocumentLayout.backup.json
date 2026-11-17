@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\tuneo de pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\tuneo de pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\tuneo de pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\tuneo de pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\catalogopizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\catalogopizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\tamanopizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\tamanopizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\frmpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\frmpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\sesioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\sesioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\sesionpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\sesionpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\carriton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\carriton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\complemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\complemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pagotransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\pagotransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\carrito.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\carrito.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\carrito.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\carrito.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\nuestra historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\nuestra historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\nuestra historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\nuestra historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|c:\\users\\lacro\\desktop\\proyectopoo3\\feddy\\feddy\\feddy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F104B4D-BEEA-AF78-D80E-F8C64D501DE2}|feddy\\feddy.csproj|solutionrelative:feddy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Form1.cs",
+              "RelativeDocumentMoniker": "feddy\\Form1.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "feddy\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:01:46.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Form1.cs",
+              "RelativeDocumentMoniker": "feddy\\Form1.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Form1.cs",
+              "RelativeToolTip": "feddy\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:07:58.77Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPago.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\FrmPago.cs",
+              "RelativeDocumentMoniker": "feddy\\FrmPago.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\FrmPago.cs [Design]",
+              "RelativeToolTip": "feddy\\FrmPago.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T13:32:20.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPago.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\FrmPago.cs",
+              "RelativeDocumentMoniker": "feddy\\FrmPago.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\FrmPago.cs",
+              "RelativeToolTip": "feddy\\FrmPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:51:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Compra.cs",
+              "RelativeDocumentMoniker": "feddy\\Compra.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Compra.cs",
+              "RelativeToolTip": "feddy\\Compra.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:56:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Compra.cs",
+              "RelativeDocumentMoniker": "feddy\\Compra.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Compra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "feddy\\Compra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:56:07.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tuneo de Pizza.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Tuneo de Pizza.cs",
+              "RelativeDocumentMoniker": "feddy\\Tuneo de Pizza.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Tuneo de Pizza.cs [Dise\u00F1o]",
+              "RelativeToolTip": "feddy\\Tuneo de Pizza.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:46:40.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tuneo de Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Tuneo de Pizza.cs",
+              "RelativeDocumentMoniker": "feddy\\Tuneo de Pizza.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Tuneo de Pizza.cs",
+              "RelativeToolTip": "feddy\\Tuneo de Pizza.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:57:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogoPizzas.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\CatalogoPizzas.cs",
+              "RelativeDocumentMoniker": "feddy\\CatalogoPizzas.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\CatalogoPizzas.cs",
+              "RelativeToolTip": "feddy\\CatalogoPizzas.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T02:53:54.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Producto.cs",
+              "RelativeDocumentMoniker": "feddy\\Producto.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Producto.cs",
+              "RelativeToolTip": "feddy\\Producto.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:09:22.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TamanoPizza.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\TamanoPizza.cs",
+              "RelativeDocumentMoniker": "feddy\\TamanoPizza.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\TamanoPizza.cs",
+              "RelativeToolTip": "feddy\\TamanoPizza.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:01:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Ingrediente.cs",
+              "RelativeDocumentMoniker": "feddy\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Ingrediente.cs",
+              "RelativeToolTip": "feddy\\Ingrediente.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T16:58:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Pizza.cs",
+              "RelativeDocumentMoniker": "feddy\\Pizza.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Pizza.cs",
+              "RelativeToolTip": "feddy\\Pizza.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwv8UAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:19:24.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pedido.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pedido.cs",
+              "RelativeDocumentMoniker": "feddy\\pedido.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pedido.cs",
+              "RelativeToolTip": "feddy\\pedido.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T18:00:22.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Conexion.cs",
+              "RelativeDocumentMoniker": "feddy\\Conexion.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Conexion.cs",
+              "RelativeToolTip": "feddy\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T14:10:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pedido.cs",
+              "RelativeDocumentMoniker": "feddy\\pedido.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\pedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "feddy\\pedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:25:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPago.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\FrmPago.Designer.cs",
+              "RelativeDocumentMoniker": "feddy\\FrmPago.Designer.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\FrmPago.Designer.cs",
+              "RelativeToolTip": "feddy\\FrmPago.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T13:27:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SesionCatalogo.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\SesionCatalogo.cs",
+              "RelativeDocumentMoniker": "feddy\\SesionCatalogo.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\SesionCatalogo.cs",
+              "RelativeToolTip": "feddy\\SesionCatalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T03:02:06.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.cs",
+              "RelativeDocumentMoniker": "feddy\\Carrito.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.cs",
+              "RelativeToolTip": "feddy\\Carrito.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:55:27.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Carrito.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.cs",
+              "RelativeDocumentMoniker": "feddy\\Carrito.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.cs [Dise\u00F1o]",
+              "RelativeToolTip": "feddy\\Carrito.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:43:58.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SesionPedido.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\SesionPedido.cs",
+              "RelativeDocumentMoniker": "feddy\\SesionPedido.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\SesionPedido.cs",
+              "RelativeToolTip": "feddy\\SesionPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T01:48:20.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Carriton.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carriton.cs",
+              "RelativeDocumentMoniker": "feddy\\Carriton.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carriton.cs",
+              "RelativeToolTip": "feddy\\Carriton.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T00:38:38.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Complemento.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Complemento.cs",
+              "RelativeDocumentMoniker": "feddy\\Complemento.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Complemento.cs",
+              "RelativeToolTip": "feddy\\Complemento.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T16:58:11.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagoTransferencia.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\PagoTransferencia.cs",
+              "RelativeDocumentMoniker": "feddy\\PagoTransferencia.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\PagoTransferencia.cs",
+              "RelativeToolTip": "feddy\\PagoTransferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:01:13.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagoEfectivo.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\PagoEfectivo.cs",
+              "RelativeDocumentMoniker": "feddy\\PagoEfectivo.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\PagoEfectivo.cs",
+              "RelativeToolTip": "feddy\\PagoEfectivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:00:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Pago.cs",
+              "RelativeDocumentMoniker": "feddy\\Pago.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Pago.cs",
+              "RelativeToolTip": "feddy\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:00:24.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Ticket.cs",
+              "RelativeDocumentMoniker": "feddy\\Ticket.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Ticket.cs",
+              "RelativeToolTip": "feddy\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T16:59:57.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Carrito.resx",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.resx",
+              "RelativeDocumentMoniker": "feddy\\Carrito.resx",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.resx",
+              "RelativeToolTip": "feddy\\Carrito.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-12T16:57:26.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Carrito.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.Designer.cs",
+              "RelativeDocumentMoniker": "feddy\\Carrito.Designer.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Carrito.Designer.cs",
+              "RelativeToolTip": "feddy\\Carrito.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T16:57:25.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Nuestra historia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Nuestra historia.cs",
+              "RelativeDocumentMoniker": "feddy\\Nuestra historia.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Nuestra historia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "feddy\\Nuestra historia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:50:34.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Program.cs",
+              "RelativeDocumentMoniker": "feddy\\Program.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Program.cs",
+              "RelativeToolTip": "feddy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:08:02.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "feddy\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Form1.Designer.cs",
+              "RelativeToolTip": "feddy\\Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T18:08:02.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Nuestra historia.cs",
+              "DocumentMoniker": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Nuestra historia.cs",
+              "RelativeDocumentMoniker": "feddy\\Nuestra historia.cs",
+              "ToolTip": "C:\\Users\\lacro\\Desktop\\proyectopoo3\\feddy\\feddy\\feddy\\Nuestra historia.cs",
+              "RelativeToolTip": "feddy\\Nuestra historia.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:52:29.049Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
