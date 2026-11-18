@@ -53,7 +53,7 @@
             btnPizzas.TabIndex = 1;
             btnPizzas.Text = "Pizzas";
             btnPizzas.UseVisualStyleBackColor = true;
-            
+            btnPizzas.Click += btnPizzas_Click;
             // 
             // btnComplementos
             // 
@@ -63,7 +63,7 @@
             btnComplementos.TabIndex = 2;
             btnComplementos.Text = "Complementos";
             btnComplementos.UseVisualStyleBackColor = true;
-           
+            btnComplementos.Click += btnComplementos_Click;
             // 
             // btnPaquetes
             // 
@@ -73,7 +73,7 @@
             btnPaquetes.TabIndex = 3;
             btnPaquetes.Text = "Paquetes";
             btnPaquetes.UseVisualStyleBackColor = true;
-           
+            btnPaquetes.Click += btnPaquetes_Click;
             // 
             // btnCrear
             // 

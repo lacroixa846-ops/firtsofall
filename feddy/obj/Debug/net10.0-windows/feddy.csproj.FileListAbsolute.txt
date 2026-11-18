@@ -57,3 +57,14 @@ C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\
 C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\obj\Debug\net10.0-windows\feddy.sourcelink.json
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\obj\Debug\net10.0-windows\feddy.MenuPizzas.resources
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\obj\Debug\net10.0-windows\feddy.MenuComplementos.resources
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\obj\Debug\net10.0-windows\feddy.MenuPaquetes.resources
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza-orilla_rellena.png
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza_hawaiana.png
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza_pepperoni.png
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza_queso.png
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza_tres_carnes.png
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza_pepperoni_nueva.png
+C:\Users\lacro\Desktop\proyectopoo3\feddy\feddy\feddy\bin\Debug\net10.0-windows\Imagenes\pizza_tres_carnes_nueva.png

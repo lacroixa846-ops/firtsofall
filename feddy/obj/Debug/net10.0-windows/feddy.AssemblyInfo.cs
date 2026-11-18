@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("feddy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9d62e2ec4f559f48267c72ee19a33f318634a73")]
 [assembly: System.Reflection.AssemblyProductAttribute("feddy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("feddy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

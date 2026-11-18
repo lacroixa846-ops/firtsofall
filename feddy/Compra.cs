@@ -15,11 +15,6 @@ namespace feddy
         public Compra()
         {
             InitializeComponent();
-
-            MessageBox.Show("Se creó el formulario Compra.");
-
-            this.Load += Compra_Load;
-
             metodoPago = "No especificado";
         }
 
@@ -41,11 +36,10 @@ namespace feddy
             {
                 MessageBox.Show("No se pudo reproducir el sonido: " + ex.Message);
             }
-            MessageBox.Show("El formulario Compra_Load sí se ejecutó.");
+            
 
             if (GuardarCompra())
             {
-                MessageBox.Show("La compra se guardó. Ahora se mostrará el ticket.");
                 MostrarTicket();
             }
         }

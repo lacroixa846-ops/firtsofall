@@ -9,6 +9,40 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Imagenes\pizza-orilla_rellena.png" />
+    <None Remove="Imagenes\pizza_hawaiana.png" />
+    <None Remove="Imagenes\pizza_pepperoni.png" />
+    <None Remove="Imagenes\pizza_pepperoni_nueva.png" />
+    <None Remove="Imagenes\pizza_queso.png" />
+    <None Remove="Imagenes\pizza_tres_carnes.png" />
+    <None Remove="Imagenes\pizza_tres_carnes_nueva.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Imagenes\pizza-orilla_rellena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\pizza_hawaiana.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\pizza_pepperoni.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\pizza_pepperoni_nueva.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\pizza_queso.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\pizza_tres_carnes.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\pizza_tres_carnes_nueva.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MySql.Data" Version="26.10.0" />
   </ItemGroup>
 

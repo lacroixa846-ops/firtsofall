@@ -49,9 +49,9 @@
             lblMensaje.AutoSize = true;
             lblMensaje.Location = new Point(49, 146);
             lblMensaje.Name = "lblMensaje";
-            lblMensaje.Size = new Size(147, 20);
+            lblMensaje.Size = new Size(131, 20);
             lblMensaje.TabIndex = 1;
-            lblMensaje.Text = "Compra realizada : C";
+            lblMensaje.Text = "Compra realizada ";
             // 
             // lblTotal
             // 
@@ -76,7 +76,7 @@
             lstProductos.FormattingEnabled = true;
             lstProductos.Location = new Point(49, 197);
             lstProductos.Name = "lstProductos";
-            lstProductos.Size = new Size(150, 104);
+            lstProductos.Size = new Size(200, 44);
             lstProductos.TabIndex = 5;
             // 
             // Compra

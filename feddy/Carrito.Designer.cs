@@ -41,40 +41,43 @@
             lblTitulo.AutoSize = true;
             lblTitulo.BackColor = Color.Transparent;
             lblTitulo.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblTitulo.Location = new Point(41, 44);
+            lblTitulo.Location = new Point(64, 32);
             lblTitulo.Name = "lblTitulo";
             lblTitulo.Size = new Size(303, 37);
             lblTitulo.TabIndex = 0;
             lblTitulo.Text = "Tu carrito de compras:";
+            lblTitulo.Click += lblTitulo_Click;
             // 
             // lablTotalTexto
             // 
             lablTotalTexto.AutoSize = true;
             lablTotalTexto.BackColor = Color.Transparent;
             lablTotalTexto.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lablTotalTexto.Location = new Point(75, 205);
+            lablTotalTexto.Location = new Point(74, 236);
             lablTotalTexto.Name = "lablTotalTexto";
             lablTotalTexto.Size = new Size(89, 37);
             lablTotalTexto.TabIndex = 1;
             lablTotalTexto.Text = "Total:";
+            lablTotalTexto.Click += lablTotalTexto_Click;
             // 
             // lblTotal
             // 
             lblTotal.AutoSize = true;
             lblTotal.BackColor = Color.Transparent;
             lblTotal.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblTotal.Location = new Point(205, 205);
+            lblTotal.Location = new Point(256, 236);
             lblTotal.Name = "lblTotal";
             lblTotal.Size = new Size(88, 37);
             lblTotal.TabIndex = 2;
             lblTotal.Text = "$0.00";
+            lblTotal.Click += lblTotal_Click;
             // 
             // btnRealizarCompra
             // 
             btnRealizarCompra.BackColor = Color.DarkOrange;
             btnRealizarCompra.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnRealizarCompra.ForeColor = Color.White;
-            btnRealizarCompra.Location = new Point(103, 249);
+            btnRealizarCompra.Location = new Point(130, 277);
             btnRealizarCompra.Margin = new Padding(3, 4, 3, 4);
             btnRealizarCompra.Name = "btnRealizarCompra";
             btnRealizarCompra.Size = new Size(147, 45);
@@ -87,9 +90,9 @@
             // 
             flpProductos.AutoScroll = true;
             flpProductos.FlowDirection = FlowDirection.TopDown;
-            flpProductos.Location = new Point(56, 84);
+            flpProductos.Location = new Point(30, 84);
             flpProductos.Name = "flpProductos";
-            flpProductos.Size = new Size(250, 128);
+            flpProductos.Size = new Size(360, 128);
             flpProductos.TabIndex = 4;
             flpProductos.WrapContents = false;
             // 
@@ -99,7 +102,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(360, 331);
+            ClientSize = new Size(422, 377);
             Controls.Add(flpProductos);
             Controls.Add(btnRealizarCompra);
             Controls.Add(lblTotal);

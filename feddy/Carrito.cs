@@ -20,28 +20,50 @@ namespace feddy
         }
 
 
+
         private void MostrarProductos()
         {
             flpProductos.Controls.Clear();
 
             List<Producto> productos = gestorCarrito.GetProductos();
 
-            foreach (Producto producto in productos)
+            for (int i = 0; i < productos.Count; i++)
             {
-                Label lblProducto = new Label();
+                int indice = i;
+                Producto producto = productos[i];
 
+                Panel panelProducto = new Panel();
+                panelProducto.Width = flpProductos.Width - 30;
+                panelProducto.Height = 45;
+                panelProducto.Margin = new Padding(5);
+
+                Label lblProducto = new Label();
                 lblProducto.Text = producto.GetNombre() +
                                    " - $" + producto.CalcularPrecio().ToString("0.00");
-
                 lblProducto.AutoSize = true;
+                lblProducto.Location = new Point(5, 12);
                 lblProducto.Font = new Font("Arial", 11, FontStyle.Bold);
-                lblProducto.Margin = new Padding(10);
 
-                flpProductos.Controls.Add(lblProducto);
+                Button btnEliminar = new Button();
+                btnEliminar.Text = "Eliminar";
+                btnEliminar.Size = new Size(85, 30);
+                btnEliminar.Location = new Point(panelProducto.Width - 95, 5);
+
+                btnEliminar.Click += (sender, e) =>
+                {
+                    gestorCarrito.EliminarProducto(indice);
+                    MostrarProductos();
+                };
+
+                panelProducto.Controls.Add(lblProducto);
+                panelProducto.Controls.Add(btnEliminar);
+
+                flpProductos.Controls.Add(panelProducto);
             }
 
             lblTotal.Text = "$" + gestorCarrito.CalcularSubtotal().ToString("0.00");
         }
+
 
         internal void AgregarProducto(Producto producto)
         {
@@ -66,6 +88,21 @@ namespace feddy
         private void Carrito_Load(object sender, EventArgs e)
         {
             MostrarProductos();
+        }
+
+        private void lablTotalTexto_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTotal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTitulo_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

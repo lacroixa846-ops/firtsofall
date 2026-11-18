@@ -48,6 +48,23 @@ namespace feddy
             Carrito ventana = new Carrito();
             ventana.Show();
         }
+        private void btnPizzas_Click(object sender, EventArgs e)
+        {
+            MenuPizzas ventana = new MenuPizzas();
+            ventana.Show();
+        }
+
+        private void btnComplementos_Click(object sender, EventArgs e)
+        {
+            MenuComplementos ventana = new MenuComplementos();
+            ventana.Show();
+        }
+
+        private void btnPaquetes_Click(object sender, EventArgs e)
+        {
+            MenuPaquetes ventana = new MenuPaquetes();
+            ventana.Show();
+        }
 
     }
 }

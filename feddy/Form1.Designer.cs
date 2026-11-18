@@ -36,13 +36,13 @@
             pictureBox3 = new PictureBox();
             pictureBox4 = new PictureBox();
             linkLabel1 = new LinkLabel();
-            pictureBox5 = new PictureBox();
+            btnPizzas = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panelHeader.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)btnPizzas).BeginInit();
             SuspendLayout();
             // 
             // pictureBox1
@@ -52,7 +52,7 @@
             pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
             pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox1.Location = new Point(34, 159);
-            pictureBox1.Margin = new Padding(4, 4, 4, 4);
+            pictureBox1.Margin = new Padding(4);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(900, 192);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -68,7 +68,7 @@
             panelHeader.Controls.Add(pictureBox3);
             panelHeader.Dock = DockStyle.Top;
             panelHeader.Location = new Point(0, 0);
-            panelHeader.Margin = new Padding(4, 4, 4, 4);
+            panelHeader.Margin = new Padding(4);
             panelHeader.Name = "panelHeader";
             panelHeader.Size = new Size(1000, 134);
             panelHeader.TabIndex = 4;
@@ -80,7 +80,7 @@
             pictureBox2.BackgroundImageLayout = ImageLayout.Zoom;
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
             pictureBox2.Location = new Point(0, 10);
-            pictureBox2.Margin = new Padding(4, 4, 4, 4);
+            pictureBox2.Margin = new Padding(4);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(172, 115);
             pictureBox2.TabIndex = 0;
@@ -104,7 +104,7 @@
             pictureBox3.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
             pictureBox3.Location = new Point(890, 32);
-            pictureBox3.Margin = new Padding(4, 4, 4, 4);
+            pictureBox3.Margin = new Padding(4);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(74, 69);
             pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
@@ -118,7 +118,7 @@
             pictureBox4.BackgroundImageLayout = ImageLayout.Zoom;
             pictureBox4.Dock = DockStyle.Bottom;
             pictureBox4.Location = new Point(0, 584);
-            pictureBox4.Margin = new Padding(4, 4, 4, 4);
+            pictureBox4.Margin = new Padding(4);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(1000, 75);
             pictureBox4.TabIndex = 5;
@@ -140,20 +140,20 @@
             linkLabel1.TextAlign = ContentAlignment.MiddleLeft;
             linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
-            // pictureBox5
+            // btnPizzas
             // 
-            pictureBox5.Anchor = AnchorStyles.None;
-            pictureBox5.BackColor = Color.Transparent;
-            pictureBox5.BackgroundImage = (Image)resources.GetObject("pictureBox5.BackgroundImage");
-            pictureBox5.BackgroundImageLayout = ImageLayout.Stretch;
-            pictureBox5.Location = new Point(91, 359);
-            pictureBox5.Margin = new Padding(4, 4, 4, 4);
-            pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(792, 171);
-            pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox5.TabIndex = 7;
-            pictureBox5.TabStop = false;
-            pictureBox5.Click += pictureBox5_Click;
+            btnPizzas.Anchor = AnchorStyles.None;
+            btnPizzas.BackColor = Color.Transparent;
+            btnPizzas.BackgroundImage = (Image)resources.GetObject("btnPizzas.BackgroundImage");
+            btnPizzas.BackgroundImageLayout = ImageLayout.Stretch;
+            btnPizzas.Location = new Point(91, 377);
+            btnPizzas.Margin = new Padding(4);
+            btnPizzas.Name = "btnPizzas";
+            btnPizzas.Size = new Size(792, 171);
+            btnPizzas.SizeMode = PictureBoxSizeMode.StretchImage;
+            btnPizzas.TabIndex = 7;
+            btnPizzas.TabStop = false;
+            btnPizzas.Click += pictureBox5_Click;
             // 
             // Form1
             // 
@@ -163,12 +163,12 @@
             BackColor = Color.White;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1000, 659);
-            Controls.Add(pictureBox5);
             Controls.Add(linkLabel1);
             Controls.Add(pictureBox4);
             Controls.Add(panelHeader);
             Controls.Add(pictureBox1);
-            Margin = new Padding(4, 4, 4, 4);
+            Controls.Add(btnPizzas);
+            Margin = new Padding(4);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
@@ -178,7 +178,7 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
+            ((System.ComponentModel.ISupportInitialize)btnPizzas).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -191,6 +191,6 @@
         private PictureBox pictureBox3;
         private PictureBox pictureBox4;
         private LinkLabel linkLabel1;
-        private PictureBox pictureBox5;
+        private PictureBox btnPizzas;
     }
 }
